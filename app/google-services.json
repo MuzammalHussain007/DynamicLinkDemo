@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "348035997286",
+    "project_id": "ppproject-669ec",
+    "storage_bucket": "ppproject-669ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348035997286:android:a486abe45760cd800c57a7",
+        "android_client_info": {
+          "package_name": "com.codercrew.deeplinkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7k2Pz1szfqC2yWUNgJTwtC45OCGvF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348035997286:android:6e26f2b55638299c0c57a7",
+        "android_client_info": {
+          "package_name": "com.codercrew.ppproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7k2Pz1szfqC2yWUNgJTwtC45OCGvF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348035997286:android:3812479b53efdad00c57a7",
+        "android_client_info": {
+          "package_name": "com.spaceo.dynamiclink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348035997286-2b2gnldev1ar087j7je91np1nqfk0c5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spaceo.dynamiclink",
+            "certificate_hash": "5c2e221fb6de5b8849ee8110145ca4e683c7c581"
+          }
+        },
+        {
+          "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7k2Pz1szfqC2yWUNgJTwtC45OCGvF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348035997286-gclk27cdfvkjs4m5l6mjl5rf6d7ut248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
